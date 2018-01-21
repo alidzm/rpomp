@@ -1,4 +1,4 @@
-package com.example.user.currencyconverter;
+package com.example.user.alarm;
 
 import org.junit.Test;
 
